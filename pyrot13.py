@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ##
-# Copyright (c) 2018 Paolo Niccolo Giubelli. All rights reserved.
+# Copyright (c) 2018 P.N. Giubelli <paoloniccolo.giubelli@gmail.com>
 # 
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation
@@ -25,7 +25,6 @@
 #
 ##
 
-import argparse
 import string
 import sys
 
